@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11d0e924b31c6c77",
+        "id": "169507bb194d6ede",
         "type": "tabs",
         "children": [
           {
-            "id": "9fea8fb6a24cd821",
+            "id": "d17772325cc12ea7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/02_Requirimientos/Latencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latencia"
             }
           }
         ]
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -156,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -165,8 +170,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fea8fb6a24cd821",
+  "active": "d17772325cc12ea7",
   "lastOpenFiles": [
+    "CE1116/02_Requirimientos/Latencia.md",
+    "CE1116/02_Requirimientos/Throughput.md",
+    "CE1116/02_Requirimientos/Disponibilidad de la aplicación.md",
+    "CE1116/02_Requirimientos/Trade off en el diseño y arquitectura de software.md",
+    "CE1116/02_Requirimientos/Estrategia de modelado de la arquitectura por puntos de vista.md",
+    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
+    "Sin título.base",
+    "CE1116/03_Arquitectura y Diseño/Sin título.md",
+    "CE1116/08_Templates/Atomic Template.md",
+    "CE1116/02_Requirimientos/Product Backlog.md",
+    "Sin nombre",
     "CE1116/05_Pruebas/Definition of Done (DoD).md",
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
     "CE1116/04_Implementación/Taskboard.md",
@@ -178,21 +194,12 @@
     "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
     "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
     "CE1116/02_Requirimientos/Requerimientos de Negocios.md",
-    "CE1116/02_Requirimientos/Product Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía Ágil.md",
-    "CE1116/08_Templates/Atomic Template.md",
     "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/02_Requirimientos/Product Owner.md",
-    "README.md",
-    "Sin título.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -201,8 +208,6 @@
     "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño",
-    "CE1116/02_Requirimientos"
+    "CE1116/04_Implementación"
   ]
 }

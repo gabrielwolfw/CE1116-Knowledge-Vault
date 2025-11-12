@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/02_Requirimientos/Latencia.md",
+                "file": "CE1116/03_Arquitectura y Diseño/Arquitectura Event Driven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latencia"
+              "title": "Arquitectura Event Driven"
             }
           }
         ]
@@ -172,12 +172,20 @@
   },
   "active": "d17772325cc12ea7",
   "lastOpenFiles": [
+    "CE1116/03_Arquitectura y Diseño/Broker en arquitecturas Event Driven.md",
+    "CE1116/03_Arquitectura y Diseño/Arquitectura Event Driven.md",
+    "CE1116/03_Arquitectura y Diseño/Arquitectura en capas.md",
+    "CE1116/03_Arquitectura y Diseño/Arquitectura de software de microkernel.md",
+    "CE1116/03_Arquitectura y Diseño/Acoplamiento en desarrollo de software.md",
+    "CE1116/03_Arquitectura y Diseño/Cohesión en desarrollo de software.md",
+    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/02_Requirimientos/User Story.md",
+    "CE1116/02_Requirimientos/Disponibilidad de la aplicación.md",
+    "CE1116/02_Requirimientos/Estrategia de modelado de la arquitectura por puntos de vista.md",
     "CE1116/02_Requirimientos/Latencia.md",
     "CE1116/02_Requirimientos/Throughput.md",
-    "CE1116/02_Requirimientos/Disponibilidad de la aplicación.md",
     "CE1116/02_Requirimientos/Trade off en el diseño y arquitectura de software.md",
-    "CE1116/02_Requirimientos/Estrategia de modelado de la arquitectura por puntos de vista.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "Sin título.base",
     "CE1116/03_Arquitectura y Diseño/Sin título.md",
     "CE1116/08_Templates/Atomic Template.md",
@@ -187,19 +195,11 @@
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
     "CE1116/04_Implementación/Taskboard.md",
     "CE1116/04_Implementación/Sprint Backlog.md",
-    "CE1116/02_Requirimientos/User Story.md",
     "CE1116/02_Requirimientos/Story Points.md",
     "CE1116/02_Requirimientos/Stakeholder.md",
     "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
     "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
     "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocios.md",
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía Ágil.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
